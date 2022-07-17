@@ -1,6 +1,6 @@
 ## Seja Bem-Vindo(a) 👋
 
-#### Meu nome é _Gabriel Silva_ e sou estudante da <a href="https://www.betrybe.com/" target="_blank">Trybe</a> <img class="marca" width= 20px src= https://cdn-images-1.medium.com/max/1200/1*_8rYOyJj9qiQsmeoVk3Gfg.png>
+#### Meu nome é _Gabriel Silva_ e sou estudante da <a href="https://www.betrybe.com/">Trybe</a> <img class="marca" width= 20px src= https://cdn-images-1.medium.com/max/1200/1*_8rYOyJj9qiQsmeoVk3Gfg.png>
 
 - 🌱 Atualmente estou estudando _HTML, CSS e Javascript!_
 - 😄 Pronomes: Ele/dele.
@@ -18,7 +18,7 @@
 
 ### Linguagens que estou aprendendo:</h1>
 <div display: inline-block>
-  <a href="https://blog.betrybe.com/html/" target="_blank"><img width= 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-  <a href="https://blog.betrybe.com/css/" target="_blank"><img width= 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img width= 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://blog.betrybe.com/html/"><img width= 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="https://blog.betrybe.com/css/"><img width= 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href="https://www.javascript.com/"><img width= 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
 </div>
