@@ -3,7 +3,7 @@
 
 #### Meu nome é _Gabriel Silva_ e sou estudante da <a href="https://www.betrybe.com/" target="_blank">Trybe <img class="marca" width= 20px src= https://cdn-images-1.medium.com/max/1200/1*_8rYOyJj9qiQsmeoVk3Gfg.png></a>
 
-- 🌱 Atualmente estou estudando _HTML, CSS e Javascript!_
+- 🌱 Atualmente estou estudando _HTML, CSS, Javascript e React!_
 - 😄 Pronomes: Ele/dele.
 - ⚡ Hobbies: Gosto de desenhar no tempo livre!
 
