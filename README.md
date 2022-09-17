@@ -23,4 +23,5 @@
   <a href="https://blog.betrybe.com/html/" alt="html-logo" target="_blank"><img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
   <a href="https://blog.betrybe.com/css/" alt="css-logo" target="_blank"><img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
   <a href="https://www.javascript.com/" alt="javascript-logo" target="_blank"><img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://pt-br.reactjs.org" alt="react-logo" target="_blank"><img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 </div>
