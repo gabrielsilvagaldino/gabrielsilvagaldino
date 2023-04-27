@@ -11,7 +11,7 @@
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsilvagaldino&show_icons=true&count_private=true&theme=transparent" />
-  <img width="419" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvagaldino&layout=compact&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvagaldino&layout=compact&theme=transparent" />
 </div>
 
 ##
